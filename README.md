@@ -1,6 +1,6 @@
 # DHC-STGN: Dynamic Hierarchical Confidence Spatio-Temporal Graph Networks
 
-Code for the paper: *"DHC-STGN: Dynamic Hierarchical Confidence Spatio-Temporal Graph Networks for Forecasting Solar Irradiance"* (submitted to *Computers & Geosciences*).
+Code for the paper: *"DHC-STGN: Dynamic Hierarchical Confidence Spatio-Temporal Graph Networks for Forecasting Solar Irradiance"* 
 
 ---
 
